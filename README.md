@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gurgeron-mcptry-badge.png)](https://mseep.ai/app/gurgeron-mcptry)
+
 # Google Docs MCP Server
 
 This is a Model Context Protocol (MCP) server that allows you to connect to Google Docs through Claude. With this server, you can:
